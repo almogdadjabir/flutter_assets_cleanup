@@ -1,9 +1,9 @@
 name: flutter_assets_cleanup
 description: A powerful CLI tool to detect and remove unused assets from Flutter projects. Keep your app bundle optimized and clean.
 version: 1.0.0
-homepage: https://github.com/yourusername/flutter_assets_cleanup
-repository: https://github.com/yourusername/flutter_assets_cleanup
-issue_tracker: https://github.com/yourusername/flutter_assets_cleanup/issues
+homepage: https://github.com/almogdadjabir/flutter_assets_cleanup
+repository: https://github.com/almogdadjabir/flutter_assets_cleanup
+issue_tracker: https://github.com/almogdadjabir/flutter_assets_cleanup/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
