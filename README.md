@@ -209,7 +209,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🐛 Issues
 
-Found a bug? Have a feature request? Please open an issue on [GitHub](https://github.com/yourusername/flutter_assets_cleanup/issues).
+Found a bug? Have a feature request? Please open an issue on [GitHub]([https://github.com/almogdadjabir/flutter_assets_cleanup/issues).
 
 ## ⭐ Show Your Support
 
